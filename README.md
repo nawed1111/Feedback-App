@@ -18,12 +18,13 @@ Run below commands to download all the dependencies.
 
 ```bash
 npm install
+cd client && npm install
 ```
 
 Start application by running
 
 ```bash
-npm start
+npm run dev
 ```
 
 After successfully running locally, you should be able to access the client [localhost:3000](http://127.0.0.1:3000/).
